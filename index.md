@@ -20,7 +20,7 @@ La ecología espacial también se utiliza para estudiar cómo se propagan las en
 
 ### En la ecología evolutiva
 
-La ecología espacial también es importante para entender cómo los organismos evolucionan en respuesta a su entorno. Por ejemplo, los investigadores pueden estudiar cómo las diferentes condiciones ambientales (como la disponibilidad de alimento, la temperatura o la humedad) afectan a la selección natural y a la evolución de las características físicas y comportamentales de una especie. 
+La ecología espacial también es importante para entender cómo los organismos evolucionan en respuesta a su entorno. Por ejemplo, los investigadores pueden estudiar cómo las diferentes condiciones ambientales (como la disponibilidad de alimento, la temperatura o la humedad) afectan a la selección natural y a la evolución de las características físicas y comportamentales de una especie.
 
 Estos son sólo algunos ejemplos de cómo se puede aplicar la ecología espacial en diferentes áreas de estudio. En general, la ecología espacial es una herramienta muy útil para entender las complejas interacciones entre los organismos y su entorno y para diseñar estrategias de manejo y conservación más efectivas.
 
